@@ -1,0 +1,20 @@
+# Açılım Koleji
+
+> Açılım Koleji, Ankara Çankaya'da anaokulu, ilkokul, ortaokul ve Anadolu ve Fen Lisesi kademelerinde eğitim veren özel bir okuldur. Slogan: "Gelecek ve Başarı İçin Açılım".
+
+## Temel bilgiler
+- Kuruluş: 2015
+- Kademeler: Anaokulu (3-4-5 yaş), İlkokul (1-4. sınıf), Ortaokul (5-8. sınıf), Anadolu ve Fen Lisesi (9-12. sınıf)
+- Adres: 1071 Malazgirt Bulvarı No:50, Çankaya / Ankara, 06530
+- Telefon: 0312 284 09 09
+- E-posta: info@acilimkoleji.k12.tr
+- Web sitesi: https://acilimkoleji.k12.tr/
+
+## LGS burs başvurusu
+5, 6, 7 ve 8. sınıf öğrencileri için LGS burs başvurusu, web sitesindeki başvuru formu (https://acilimkoleji.k12.tr/#apply) üzerinden yapılır. Başvuru değerlendirildikten sonra veliye dönüş yapılır.
+
+## Sayfalar
+- [Eğitim kademeleri](https://acilimkoleji.k12.tr/#programs)
+- [Hakkımızda](https://acilimkoleji.k12.tr/#about)
+- [Sık sorulan sorular](https://acilimkoleji.k12.tr/#faq)
+- [İletişim](https://acilimkoleji.k12.tr/#contact)
